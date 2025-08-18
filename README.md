@@ -33,7 +33,7 @@ I build **practical ML systems** end-to-end: clean data pipelines, reliable trai
 
 ## Research
 - Generative models (diffusion/GANs/ViTs) with a focus on **reliable evaluation** and privacy-utility trade-offs  
-- Paper: **_Artificial Intelligence Review_**, Springer Nature — <ADD_LINK_IF_PUBLIC>
+- Paper: **_Artificial Intelligence Review_**, Springer Nature — https://link.springer.com/article/10.1007/s10462-023-10395-6
 
 ## Education
 - **Graduate Researcher — Computer Science**, Kansas State University  
