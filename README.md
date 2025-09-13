@@ -16,11 +16,12 @@ I build **practical ML systems** end-to-end: clean data pipelines, reliable trai
 - Publication in **_Artificial Intelligence Review_** (Springer Nature)
 
 ## Selected Projects
-> Most repos are private due to NDAs/course policies. **I’ll grant temporary read access on request.**
+> Work samples available under NDA; demos on request.
 
-- **Privacy-aware diffusion experiments** — evaluation tools for identity obfuscation vs. utility on synthetic/benchmark data  
-- **IoT → Web telemetry stack** — ESP32 firmware + Django APIs + metrics dashboard (alerts, retries, fault-tolerance)  
-- **Reporting automation** — Scripts and backend services that turned ad-hoc reports into reproducible jobs
+- **Ergo Platform — marketplace & wallet tooling.** Tripled auction-house throughput by replacing client-side full-chain scans with a Postgres-backed blockchain indexer (precomputed UTXO/box tables + incremental sync); cut page-load time **60%** with IPFS thumbnail caching; reduced checkout time **40%** via streamlined wallet UX. *(React, Node, PostgreSQL, IPFS)*
+- **Pattern — reporting & microservice automation.** Achieved **99.9%** uptime on a Docker/RabbitMQ/IPFS stack; reduced request latency **30%**; standardized reporting with an LLM-powered Sheets add-on, cutting analyst effort **50%**. *(Python, Docker, RabbitMQ)*
+- **IoT → Web telemetry stack.** ESP32 firmware + UART protocol + Django REST APIs + metrics dashboard with alerts/retries/fault-tolerance; ensured end-to-end data integrity. *(ESP32/C++, Django)*
+- **Privacy-aware diffusion experiments.** Built evaluation tools for identity obfuscation vs. utility on CelebA and VGGFace2; implemented latent-space perturbations and custom metrics. *(PyTorch, statistics, experiment tooling)*
 
 
 ## Skills (quick view)
